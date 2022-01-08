@@ -1,0 +1,284 @@
+*{
+    padding :0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.collapse{
+    margin-left: 300px;
+}
+.navbar-brand {
+    font-size: 30px;
+    
+    font-weight: bold;
+    
+}
+.fixed_nav{
+    position:fixed;
+    z-index:555;
+}
+.nav-link {
+    color: #273c75;
+}
+.nav-item {
+    margin-left: 20px;
+    
+}
+header nav ul li:hover{
+    color:blue;
+}
+/* .nav-item a{
+    color:#192a56;
+} */
+.btn{
+    margin-left: 10px;
+}
+.container-fluid img{
+    margin-left: 35px;
+}
+.display-4{
+    margin-left:30px ;
+    color: #273c75;
+    font-weight: bold;
+    font-size: 45px;
+}
+.lead{
+    margin-left:30px;
+    margin-top: 20px;
+    font-size: 30px;   
+}
+.btn1{
+    margin-left: -420px;
+    padding: 13px;
+    border: none;
+    border-radius: 5px;
+    width: 162px;
+    margin-top: 30px;
+}
+
+.image1 img{
+    width:800px;
+    height: 600px;
+    margin-top: 110px;
+}
+.qui{
+    margin-left: 30px;
+}
+.aos-init2 {
+    margin-left: 63px;
+    color: #273c75;
+    font-size: 51px;
+}
+.aos-init1{
+    margin-left: 65px;
+    margin-top: 20px;
+    font-size: 28px;
+    font-weight: 200;
+}
+.display-1{
+    font-size: 14px;
+    margin-left: 33px;
+    color: blue;
+    font-weight: bold;
+}
+.lead {
+    margin-left: 30px;
+    margin-top: -2px;
+    font-size: 27px;
+    color: #273c75;
+    font-weight: bold;
+}
+.quis{
+    margin-left: 29px;
+}
+.btn4{
+    font-size: 20px;
+    width: 173px;
+    padding: 13px;
+    border: none;
+    border-radius: 5px;
+    width: 162px;
+    margin-top: 30px;
+}
+.jumbotron{
+    background-color:#dff9fb ;
+}
+.cards{
+    display: flex;
+}
+.container{
+    margin-top: 124px;
+}
+.our{
+    text-align: center;
+    color:blue;
+}
+.odit{
+    text-align: center;
+    color:#30336b;
+}
+.card{
+    margin-right: 77px;
+    margin-top: 81px;
+     box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+     padding:40px;
+     width: 200px;
+    
+    
+}
+.card_a{
+    display:flex;
+    margin-right: 15px;
+    margin-left: 43px;
+    height: 166px;
+    width: 306px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23); 
+    padding: 40px;
+     
+}
+.container2{
+    display: flex;
+    margin-top:200px;
+}
+.content{
+    font-size: 40px;
+    margin-left: 20px;
+    color:#1e3799;
+}
+.hard{
+    margin-left: 25px;
+}
+.icon1 {
+    color: blue;
+}
+.icon3 {
+    color:#2ed573;
+}
+.icon4 {
+    color:#c23616;
+}
+.feature{
+    text-align: center;
+    color:blue;
+    font-size: 15px;
+}
+.lab{
+    text-align: center;
+    color:#1e3799;
+    font-size: 42px;
+    font-weight: 800;
+}
+.container4{
+    margin-top: 184px;
+}
+.rect_card{
+    width: 293px;
+    height: 93px;
+    
+    box-shadow: 0 6px 10px rgb(0 0 0 / 10%), 0 6px 6px rgb(0 0 0 / 23%);
+    margin-left: 27px;
+    margin-top: 20px;
+    padding: 30px;
+}
+
+
+.card_display{
+    display: flex;
+    margin-left: 45px;
+}
+.card_display2{
+    margin-right: 30px;
+
+}
+.flex{
+    display: flex;
+}
+.para_tick{
+    margin-left: 20px;
+    color:#1e3799 ;
+    font-weight: bold;
+}
+.tick{
+    background-color:#c7ecee ;
+    width: 25px;
+    
+}
+.tick:hover{
+    background-color:#1e3799;
+}
+.tick i{
+    margin-left: 6px;
+}
+.flex_neq{
+    display: flex;
+    margin-left: 60px;
+}
+.jumbotron3{
+    margin-top: 146px;
+}
+.col-lg-6{
+    margin-top: 80px;
+}
+.display-6{
+    font-size: 33px;
+    margin-left: 58px;
+    color:#1e3799;
+}
+.con{
+    margin-left: 59px;
+}
+.omis{
+    margin-left: 60px;
+}
+.line_flex{
+    display: flex;
+}
+.line_para{
+    margin-left: 58px;
+    margin-bottom: -23px;
+    margin-right: -31px;
+}
+.rep{
+    color: #1e3799;
+    font-weight: bold;
+    margin-top: -5px;
+    margin-left: 9px;
+}
+.inci{
+    color: #1e3799;
+    font-weight: bold;
+    margin-top: -5px;
+    margin-left: 9px;  
+}
+.ration_card{
+    display: flex;
+    margin-top: 25px;
+}
+.main_flex{
+    display: flex;
+}
+.ration_flex{
+    margin-left: 20px;
+}
+.ration_icon{
+    color: #1e3799;
+}
+.ration_para1{
+    color:#1e3799;
+    font-weight: bold;
+    font-size: 20px;
+}
+.ration_para2{
+    color: #95a5a6;
+    font-size: 15px;
+}
+.services{
+    text-align: center;
+}
+.veri{
+    text-align: center;
+}
+
+.container4{
+    display: flex;
+}

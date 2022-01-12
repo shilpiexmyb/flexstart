@@ -485,8 +485,8 @@ h2 {
     width: 438px;
     height: 600px;
     border-radius: 10px;
-    margin-left: 100px;
-    margin-right: 107px;
+    margin-left: -22px;   
+    margin-right: 39px;
 }
 
 .dol img{
@@ -516,7 +516,8 @@ h2 {
 .blog{
     text-align: center;
     color:blue;
-    margin-left: 383px;
+    
+    margin-left: 700px;
 }
 .recent1{
     text-align: center;
@@ -524,7 +525,7 @@ h2 {
     margin-left: 367px;
     font-size: 40px;
     font-weight: bold;
-    
+    width: 694px;
   
 
 }
@@ -795,7 +796,7 @@ color:#0abde3;
         }
         .loop1{
             text-align: center;
-            margin-left: 612px;
+            margin-left: 207px;
     color: blue;
         }
         .loop2 {
@@ -908,3 +909,175 @@ color:#0abde3;
             width: 158px;
             padding: 15px;
         }
+        .vol{
+            display: flex;
+        }
+        .got{
+            margin-left: 68px;
+        }
+        .bottom1{
+            text-align: center;
+            margin-left: 684px;
+        }
+        .bottom_flex{
+            display: flex;
+            margin-left: 671px;
+        }
+        .boot a{
+            text-decoration: none;
+            color: #5352ed;
+            font-size: 12px;
+            
+        }
+        .navy_bottom{
+            color:#273c75;
+            font-weight: bold;
+            margin-left: 8px;
+            font-size: 15px;
+            margin-top: 2px;
+        }
+        .bottom_res{
+            display: flex;
+            margin-left: -66px;
+            margin-top: 30px;
+        }
+        .bottom2{
+            font-size: 12px;
+        }
+        .boot{
+            margin-top: -5px;
+    margin-left: 7px;
+        }
+        .bottom {
+            border-top: 1px solid #7f8fa6;
+            width: 100vw;
+            background-color: #dff9fb;
+            
+        }
+        .social_media ul {
+display:flex;
+list-style: none;
+
+        }
+        .social_media ul li {
+            
+            margin-left: 20px;
+            margin-right: 2px;
+                    }
+                    .cras1{
+                        font-size: 13px;
+                    }
+                    .cras2{
+                        font-size: 13px; 
+                        margin-top: -14px;
+                    }
+                    .link ul {
+                        list-style: none;
+                        
+                    }
+                    .arrow{
+                        display: flex;
+                    }
+                    .arrow i{
+                        margin-top: 3px;
+                        color:#95afc0;
+                    }
+                    .arrow a{
+                        text-decoration: none;
+    font-size: 14px;margin-left: 5px;
+    color:#1e3799;
+                    }
+
+                    .arrow a:hover{
+                        color:#5352ed;
+                    }
+                    .link ul li{
+                        margin-top: 10px;
+                    }
+                    .list {
+color:#1e3799;
+font-weight: bold;
+                    }
+                    .lp1{
+                        font-weight: bold;
+                        font-size: 15px;
+                    }
+                    .zero{
+                        display: flex;
+                    }
+                    .ph{
+                        font-size: 15px;
+                    }
+                    .con_us{
+                        color:#1e3799;
+                        font-weight: bold;
+                    }
+                    .mvc{
+                        font-size: 14px;
+    margin-top: 3px;
+}
+                    
+.useful ul{
+    display: flex;
+    margin-left: 30px;
+    list-style: none;
+}
+
+.link{
+    margin-left: 200px;
+}
+.contact_phone{
+    margin-left: 200px; 
+}
+.useful{
+    border-top: 1px solid#7f8fa6 ;
+    
+    width: 100vw;
+}
+.social{
+    margin-top: 52px;
+    margin-left: 76px;
+}
+.social_media{
+    margin-top: 10px;
+    margin-left: -46px;
+}
+.dot{
+    margin-top: 20px;
+    background: #fff;
+    padding: 6px 10px;
+    position: relative;
+    border-radius: 4px;
+    border: 1px solid #e1ecff;
+}
+.loop2{
+    width: 444px;
+    margin-left: 27pc;
+    margin-top: -14px;
+}
+.pot{
+    margin-left: 450px;
+    width: 417px;
+
+}
+.question{
+    display: flex;
+}
+.act{
+    margin-right: 40px;
+}
+.sol{
+    text-transform: lowercase;
+    margin-left: 285px;
+    color:#1e3799;
+}
+.need{
+    color:blue;
+    text-align: center;
+}
+.useful ul {
+    display: flex;
+}
+.oops{
+    margin-top: 30px;
+}
